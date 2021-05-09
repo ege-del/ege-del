@@ -6,6 +6,6 @@
 ------------
 
 ### Merhaba 👋
-### Şuan 🇹🇷Türkçe haber toplama ve analiz motoru üzerinde çalısıyorum.
+### Şuan 🇹🇷Türkçe haber toplama ve analiz motoru üzerinde çalışıyorum.
 ### https://habermercek.net
 #### API yakında geliyor !!
